@@ -1,5 +1,6 @@
 public class RecursiveTwo {
     public static void main(String[] args) {
+        // TESTING
         System.out.println(summationRecursion(3,2)); // 1+3+6=10
         System.out.println(summationRecursion(3,1)); // 1+2+3=6
         System.out.println(summationRecursion(3,0)); // 3 (n)
